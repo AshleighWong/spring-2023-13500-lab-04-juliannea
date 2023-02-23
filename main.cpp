@@ -102,6 +102,7 @@ int main()
     std::cout<<"checkerboard3(27,27)\n";
     std::string checker4 = checkerboard3(27,27);
     std::cout<<checker4<<std::endl;
-
+    
+    return 0;
 
 }
