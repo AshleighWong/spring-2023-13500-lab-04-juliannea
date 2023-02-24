@@ -7,6 +7,8 @@ main.o: main.cpp
 funcs.o: funcs.cpp
 	g++ -c funcs.cpp
 
+
+
 clean:
 	rm -f main.o funcs.o
 	
